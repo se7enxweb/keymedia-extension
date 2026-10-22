@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <software>
     <metadata>
-        <name>KeyMedia API connector and datatype</name>
-        <version>1.0.0</version>
-        <copyright>Copyright (C) 2011 Keyteq AS</copyright>
-        <info_url>http://keymedia.no/ez</info_url>
+        <name>KeyMedia</name>
+        <version>2.3.1</version>
+        <copyright>Copyright (C) 2011 - 2016 Keyteq AS and 1998 - 2026 7x</copyright>
+        <license>Not stated by the original authors; see README.md</license>
+        <info_url>https://github.com/se7enxweb/keymedia-extension</info_url>
     </metadata>
 
     <dependencies>
         <uses>
             <extension name="ezexceed" />
+            <extension name="ezoe" />
         </uses>
         <requires>
             <extension name="ezote" />
+            <extension name="ezjscore" />
         </requires>
     </dependencies>
 </software>
