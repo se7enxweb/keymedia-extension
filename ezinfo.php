@@ -12,7 +12,7 @@ class keymediaInfo
     {
         return array(
             'Name'      => '<a href="https://github.com/se7enxweb/keymedia-extension">KeyMedia</a>',
-            'Version'   => '2.3.1',
+            'Version'   => '2.3.2',
             'Author'    => 'Keyteq AS and 7x',
             'Copyright' => 'Copyright &copy; 2011 - 2016 Keyteq AS and 1998 - ' . date( 'Y' ) . ' 7x',
             'License'   => 'Not stated by the original authors; see README.md',
