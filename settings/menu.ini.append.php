@@ -7,6 +7,9 @@ Part[key_media_navigation]=KeyMedia
 Tabs[]=keymedia
 
 [Topmenu_keymedia]
+# Icon - the icon the admin4 design draws before the tab's name: a name of design.ini
+#        [AdminDesignSettings] IconList[] (Bootstrap Icons); older admin designs ignore it.
+Icon=collection-play
 NavigationPartIdentifier=key_media_navigation
 Name=KeyMedia
 Tooltip=KeyMedia setup and information
